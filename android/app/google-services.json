@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "929654945545",
+    "project_number": "********************",
     "project_id": "projeto-webrtc-pra-reactnative",
     "storage_bucket": "projeto-webrtc-pra-reactnative.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:929654945545:android:1476e8f5b93c49ae1985d8",
+        "mobilesdk_app_id": "*:********************.:android:1476e8f5b93c49ae1985d8",
         "android_client_info": {
           "package_name": "com.webrtc"
         }
       },
       "oauth_client": [
         {
-          "client_id": "929654945545-nvtuk7dl7duj5ok8koiqqrgcn9ek7vf8.apps.googleusercontent.com",
+          "client_id": "********************.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyARuRFSuICvAQLrdwDOsdnrgUQ54tvu-ok"
+          "current_key": "********************"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "929654945545-nvtuk7dl7duj5ok8koiqqrgcn9ek7vf8.apps.googleusercontent.com",
+              "client_id": "********************-"********************.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
